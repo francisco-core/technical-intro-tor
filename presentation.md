@@ -32,7 +32,7 @@
 #
 <center> grab a copy of the presentation: 
   
-[github.com/francisco-core/technical-intro-to-tor/](https://github.com/francisco-core/technical-intro-to-tor/)
+[github.com/francisco-core/technical-intro-to-tor/](https://github.com/francisco-core/technical-intro-tor/)
 </center>
 
 
