@@ -6,7 +6,7 @@
 #
 #
 #
-# Online Privacy: 
+# Technical introduction
 ## The ![6%](images/tor-logo.png) Network
 
 
@@ -32,7 +32,7 @@
 #
 <center> grab a copy of the presentation: 
   
-[github.com/francisco-core/tecnical-intro-to-tor/](https://github.com/seandiggity/citizen-foss)
+[github.com/francisco-core/technical-intro-to-tor/](https://github.com/francisco-core/technical-intro-to-tor/)
 </center>
 
 
