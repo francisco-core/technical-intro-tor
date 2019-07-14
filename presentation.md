@@ -121,7 +121,7 @@
 ![80%](images/https-increase.png)
 
 <!-- source https://www.youtube.com/watch?v=py2qmGbyhlw -->
-
+<!-- also: https://transparencyreport.google.com/https/overview -->
 ---
 
 <span style="float:right">![](images/cookie-monster.jpg)</span>
